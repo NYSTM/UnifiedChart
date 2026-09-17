@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/ソリューション項目/">
+    <File Path=".editorconfig" />
+    <File Path="C1C_MIGRATION_MAPPING.md" />
+    <File Path="COONE_INVENTORY.md" />
+    <File Path="OSS_CHART_LIBRARY_COMPARISON.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="SampleForm/SampleForm.csproj" Id="8fc80298-3777-409d-aba3-228c68b45d2c" />
+  <Project Path="UnifiedChart.C1CWrapper/UnifiedChart.C1CWrapper.csproj" />
+  <Project Path="UnifiedChart.Samples.CSharp/UnifiedChart.Samples.CSharp.csproj" />
+  <Project Path="UnifiedChart.Samples.VisualBasic/UnifiedChart.Samples.VisualBasic.vbproj" />
+  <Project Path="UnifiedChart.Tests/UnifiedChart.Tests.csproj" />
+  <Project Path="UnifiedChart.WinForms/UnifiedChart.WinForms.csproj" />
+  <Project Path="UnifiedChart/UnifiedChart.csproj" />
+</Solution>
